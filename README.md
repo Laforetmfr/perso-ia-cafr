@@ -3,3 +3,10 @@
   Le projet de Chat d'Aide et Fiable a la Revision (CAFR), me challenge a la mise en place d'un chatbot IA Retrieval-Augmented Generation, hébergé sur une machine virtuelle en local.
   Celui-ci devra apporté des réponse avec pour unique source des document des cours Unilasalle.  
 </p>
+Les Étapes identifiées
+<ul>
+  <li>Instalation de la machine virtuelle</li>
+  <li>Instalation des dépendances</li>
+  <li>Intégration des documents</li>
+  <li>Parametrage du RAG</li>
+</ul>
