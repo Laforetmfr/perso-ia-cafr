@@ -10,4 +10,5 @@ Les Étapes identifiées
   <li>Intégration des documents</li>
   <li>Parametrage du RAG</li>
 </ul>
+
 Ce projet est ma premiere experience solo avec l'IA, j'ai donc utilisé l'asistance de Claude pour sa réalisation.
